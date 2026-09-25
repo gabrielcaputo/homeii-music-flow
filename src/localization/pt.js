@@ -392,6 +392,7 @@ const messages = Object.freeze({
   "ui.no_matching_content_was_found": "Nenhum conteúdo correspondente foi encontrado",
   "ui.no_media_found": "Nenhuma mídia encontrada.",
   "ui.no_media_found_for_this_search": "Nenhuma mídia encontrada para esta busca.",
+  "ui.no_mix_content_found": "Nenhum conteúdo de mix encontrado",
   "ui.no_music_assistant_players_were_found_check_music_assistant_and_media_pl": "Music Assistant é obrigatório. Ative a integração do Music Assistant no Home Assistant e exponha pelo menos um media_player do Music Assistant. Outros media players do Home Assistant são intencionalmente ocultados.",
   "ui.no_music_assistant_players_were_found_for_pinning": "Nenhum player do Music Assistant foi encontrado para fixar.",
   "ui.no_next_track_in_queue": "Sem próxima faixa na fila",
