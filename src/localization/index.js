@@ -7,7 +7,7 @@ import he from "./he.js";
 import it from "./it.js";
 import lt from "./lt.js";
 import zh from "./zh.js";
-import pt from "./br.js";
+import pt from "./pt.js";
 
 export const DEFAULT_LANGUAGE = "en";
 
